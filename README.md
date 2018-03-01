@@ -2,8 +2,8 @@
 
 These scripts were written in order to verify the AGFC Sales Channel. This project checks upon of three different platforms: Internet, Mobile, and POS.
 
-**Problem:** Check for bugs in the system daily can be painful and time consuming, specially when your platform offers a variety of products.  
-**Solution:** By creating automated regression tests you can easily create test scenarios which will check if the functionality of your website passed or failed. 
+**Problem:** Check for bugs in the system daily can be painful and time consuming, specially if your website offers a variety of products.  
+**Solution:** By creating automated regression tests you can easily create test scenarios to automatically check if the functionality of your website passed or failed. 
 
 
 ## Requirements
