@@ -1,6 +1,6 @@
 # Automated Regression Tests using Selenium ![CI status](https://img.shields.io/badge/build-passing-brightgreen.svg)
 
-These scripts were written in order to verify the AGFC Sales Channel. This project checks upon of three different platforms: Internet, Mobile, and POS.
+These scripts were written in order to verify the AGFC Sales Channel. This project checks upon three different platforms: Internet, Mobile, and POS.
 
 **Problem:** Check for bugs in the system daily can be painful and time consuming, specially if your website offers a variety of products.  
 **Solution:** By creating automated regression tests you can easily create test scenarios to automatically check if the functionality of your website passed or failed. 
